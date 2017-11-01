@@ -1,0 +1,195 @@
+
+<html>
+<head>
+<style>
+#head
+{
+    background-color:Black;
+    color:white;
+    height:80px;
+    text-align:left;
+    float:left;
+    padding-bottom:20px;
+    width:50%;
+   
+    
+}
+
+#header
+{
+    background-color:black;
+    color:white;
+    height:80px;    
+    text-align:left;
+    width:50%;
+    float:right;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+#c
+{
+    background-color:#303030;
+   height:35px;
+    width:70%;
+    float:left;
+}
+
+
+#d
+{
+    background-color:#303030;
+   height:35px;
+    width:30%;
+   text-align:right;
+    float:right;
+color:#f8f8f8;
+}
+
+
+#button
+{
+ background-color:#303030;
+ border:none;
+ color:#F8F8F8;
+ text-align:center;
+ font-size:12px;
+ margin: 10px 4px;
+}
+   
+a:hover{
+background-color:green;
+}   
+   
+   
+   
+#button2
+{
+ background-color:a52a2a;
+ border:1;
+ color:#F8F8F8;
+ text-align:center;
+ font-size:20px;
+ margin: 15px 90px;
+}
+
+
+#button3
+{
+ background-color:FF7F50;
+ border:1;
+ color:blue;
+ text-align:center;
+ font-size:20px;
+ margin: 15px 90px;
+}
+
+
+
+#j
+{
+background-color:black;
+height:25px;
+color:white;
+width:100%;
+float:left;
+}
+
+
+#fieldset 
+{
+background-color:black;
+border:2px dotted #00f;
+}
+
+
+</style>
+</head>
+<body>
+
+<div id="head">
+<a href="homepage.html"><embed src="1.gif"><a>
+</div>
+
+
+
+<div id="header">
+<input type="search"  placeholder="Search for Movies,Cinemas & Plays" size="40"  style="margin:25px 5px; height:28px;">
+<button style="height:28px;"><b>search</b></button> 	&#160;
+<button id="button2"><b><a href="new 1.html">Log In</a></b></button> 
+</div>
+
+
+<div id="c">
+<td>
+<tr><button id="button" ><b><a href="https://in.bookmyshow.com/varanasi/experiences">EXPERIENCES</a></b></button></tr>
+<tr><button id="button" <b><a href="https://in.bookmyshow.com/varanasi/movies">MOVIES</a></b></button></tr>
+<tr><button id="button" ><b><a href="https://in.bookmyshow.com/varanasi/events">EVENTS</a></b></button></tr>
+<tr><button id="button" ><b><a href="https://in.bookmyshow.com/offers">OFFERS</a></b></button></tr>
+<tr><button id="button" ><b><a href="about us.html">ABOUT US</a></b></button></tr>
+<tr><button id="button" ><b><a href="https://support.bookmyshow.com/support/home">SUPPORTS</a></b></button></tr>
+<tr><button id="button" ><b><a href="moviestrailers.html" >TRAILERS & VIDEOS</a></b></button></tr>
+</div>
+
+
+
+<div id="d">
+<b>Select Location:<select name="select location"  style="width:80px; margin:10px 4px"></b>
+<option value="1">CITY
+<option value="2">MUNBAI
+<option value="3">DELHI
+<option value="4">KOLKATA
+<option value="5">LUCKNOW
+<option value="6">VARANASI
+<option value="7">PUNE
+<option value="8">JAIPUR
+<option value="9">VISHAKHAPATNAM
+<option value="10">CHENNAI
+<option value="11">BENGLURU
+<option value="12">SURAT
+<option value="13">INDORE
+<option value="14">CHANDIGARH
+<option value="15">LUDHIANA
+<option value="16">KANPUR
+<option value="17">NAGPUR
+<option value="18">KOCHI
+<option value="19">AGRA
+<option value="20">GURGAON
+</select>
+</div>
+
+
+<div style="background-color:grey; color:white; width:100%; height:700px;">
+<div style="background-color:grey; color:white; width:100%; height:150px;">
+</div>
+<div style="background-color:grey; color:white; width:100%; height:500px;">
+<div style="background-color:grey; color:white; width:25%; height:500px; float:left">
+</div>
+<div style="background-color:#B22222; color:white; width:50%; height:500px; float:left;">
+<center><h1 style="color:black;">SIGN UP<h1></center>
+<center><h3><i>want to be a part of the <b style="color:#191970;">Awesomeness?</b></i></h3></center><br>
+<table align=center>
+<tr>
+<td>Email: </td><td><input type="text"><br><br></td></tr>
+<tr><td>Username:</td><td> <input type="text"><br><br></td></tr>
+<tr><td>Mobile No.: </td><td><input type="number"><br><br></td></tr>
+<tr><td>Password: </td><td><input type="password"><br><br></td></tr>
+<tr><td> Confirm Password:</td><td> <input type="password"><br><br></td></tr>
+<tr><td colspan=2><button style="width:300px">SIGN UP</button></td>
+</tr>
+</table><br><br>
+
+<center>already connected? <u><a href="new 1.html">SIGN IN</a></u>
+</div>
+<div style="background-color:grey; color:white; width:25%; height:500px; float:left;">
+</div>
+</div>
+<div style="background-color:grey; color:white; width:100%; height:50px;">
+
+</div>
+</div>
+<div id="j">
+<center>copyright©bookanyshow2016</center>
+</div>
+</body>
+</html>
